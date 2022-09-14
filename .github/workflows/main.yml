@@ -16,7 +16,6 @@ jobs:
     name: Mr Coxall's Super Linter
     runs-on: ubuntu-latest
 
-
     steps:
       - name: Check out Git repository
         uses: actions/checkout@main
