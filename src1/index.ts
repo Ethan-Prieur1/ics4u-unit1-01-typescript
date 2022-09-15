@@ -2,9 +2,9 @@
  * The program shows how to get input
  *   and deal with numbers.
  *
- * By:      Mr. Coxall
+ * By:      Ethan Prieur
  * Version: 1.0
- * Since:   2020-01-01
+ * Since:   2022-09-12
  */
 
 import promptSync from 'prompt-sync'
